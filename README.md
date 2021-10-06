@@ -39,7 +39,7 @@ Wency.createDay();
 ```
 <img src="https://komarev.com/ghpvc/?username=Wency&label=Ziyaretçi%20Sayısı&color=552b75" alt="Wency" />
 
-[![Discord Profile](https://lanyard-profile-readme.vercel.app/api/335115272161853442)](https://discord.com/users/335115272161853442)
+[![Discord Profile](https://lanyard-profile-readme.vercel.app/api/456261567202197515)](https://discord.com/users/335115272161853442)
 
 
 ## 🔧 Languages
