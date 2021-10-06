@@ -61,9 +61,9 @@ Wency.createDay();
 <h3>🌟 Contacts!</h3>
 <p align="center">
      <a href="https://www.instagram.com/ardawncxy" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-       <a href="https://twitch.tv/wencyistaken" target"blank_"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
+       <a href="https://twitch.tv/wencyshu" target"blank_"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
  <a href="https://open.spotify.com/artist/2izoI4BYPveurh2dmNFTDw?si=zATFfjfhR6ux2-dT0_IQOQ&dl_branch=1" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-     <a href="mailto:ardayilmaz@outlook.com?body=Merhaba" target"blank_"><img src="https://img.shields.io/badge/Gmail-09ffeb?style=for-the-badge&logo=gmail&logoColor=white"></a>
-      <a href="https://discord.com/users/335115272161853442" target"blank_"><img src="https://img.shields.io/badge/Discord-ffbb00?style=for-the-badge&logo=discord&logoColor=white"></a>
+     <a href="mailto:wency@codesty.org?body=Merhaba" target"blank_"><img src="https://img.shields.io/badge/Gmail-09ffeb?style=for-the-badge&logo=gmail&logoColor=white"></a>
+      <a href="https://discord.com/users/456261567202197515" target"blank_"><img src="https://img.shields.io/badge/Discord-ffbb00?style=for-the-badge&logo=discord&logoColor=white"></a>
 
 </p>
